@@ -1,11 +1,12 @@
-![image](https://github.com/jacobturjeman/TurtleCrossingGame/assets/84174179/6f8087a2-5784-4662-8684-c7e03bf3a87c)
-
 # Turtle Crossing Game
 
 ## Description
 
 The Turtle Crossing Game is a fun and interactive game where the player controls a turtle attempting to cross a busy road filled with moving cars. The objective is to avoid the cars and successfully reach the other side of the screen. The game is developed using Python and the `turtle` graphics module.
 
+## Screenshot
+
+![image](https://github.com/jacobturjeman/TurtleCrossingGame/assets/84174179/6f8087a2-5784-4662-8684-c7e03bf3a87c)
 
 ## How to Play
 
